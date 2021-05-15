@@ -1,0 +1,17 @@
+digraph "Window"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Window",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="The Window class : Clase que corresponde a la ventana principal."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="QWidget",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" lexito" ,fontname="Helvetica"];
+  Node3 [label="Lexer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_lexer.html",tooltip="Clase lexer para descomponer y verificar texto."];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" server" ,fontname="Helvetica"];
+  Node4 [label="Sender",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_sender.html",tooltip="Instancia del servidor."];
+  Node5 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" decomposer" ,fontname="Helvetica"];
+  Node5 [label="Decomposer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_decomposer.html",tooltip="Descompone el texto en instrucciones."];
+  Node6 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" printer" ,fontname="Helvetica"];
+  Node6 [label="Printer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_printer.html",tooltip=" "];
+}
