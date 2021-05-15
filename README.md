@@ -26,7 +26,7 @@ Para el correcto funcionamiento, es necesario ejecutar el codigo del servidor (R
 ## Collaboration
 ***
 Este proyecto fue realizado por:
-> David A. Robles Vargas
+> David A. Robles Vargas   
 > Julio Varela
 
 ***
