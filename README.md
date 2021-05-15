@@ -29,7 +29,7 @@ Para el correcto funcionamiento, es necesario ejecutar el codigo del servidor (R
 ***
 Este proyecto fue realizado por:
 > David A. Robles Vargas   
-> Julio Varela
+> Julio Varela Venegas
 
 ***
 | Tecnológico de Costa Rica | 2021 | Ingeniería en Computadores |
