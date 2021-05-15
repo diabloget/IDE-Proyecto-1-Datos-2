@@ -1,0 +1,14 @@
+digraph "C:/Users/diabl/Documents/Progra/IDE/cmake-build-debug" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_21d3fe1ca907b4b2bee363764e04dc40 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="IDE" fontname="Helvetica", fontsize="10", URL="dir_21d3fe1ca907b4b2bee363764e04dc40.html"]
+  subgraph clusterdir_f1cf41fb964ca8aca111c4bfc2546ee8 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_f1cf41fb964ca8aca111c4bfc2546ee8.html"];
+    dir_f1cf41fb964ca8aca111c4bfc2546ee8 [shape=plaintext label="cmake-build-debug"];
+  dir_8d4f390e3502f2ca455e6b38448314b8 [shape=box label="CMakeFiles" fillcolor="white" style="filled" color="red" URL="dir_8d4f390e3502f2ca455e6b38448314b8.html"];
+  dir_82c5a4042e937c9308c54f8be18e8543 [shape=box label="IDE_autogen" fillcolor="white" style="filled" color="red" URL="dir_82c5a4042e937c9308c54f8be18e8543.html"];
+  }
+  }
+}

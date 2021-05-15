@@ -1,0 +1,13 @@
+digraph "C:/Users/diabl/Documents/Progra/IDE" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_64e45254d0dd10aa69a714db4c207e84 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Progra" fontname="Helvetica", fontsize="10", URL="dir_64e45254d0dd10aa69a714db4c207e84.html"]
+  subgraph clusterdir_21d3fe1ca907b4b2bee363764e04dc40 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_21d3fe1ca907b4b2bee363764e04dc40.html"];
+    dir_21d3fe1ca907b4b2bee363764e04dc40 [shape=plaintext label="IDE"];
+  dir_f1cf41fb964ca8aca111c4bfc2546ee8 [shape=box label="cmake-build-debug" fillcolor="white" style="filled" color="red" URL="dir_f1cf41fb964ca8aca111c4bfc2546ee8.html"];
+  }
+  }
+}
