@@ -1,0 +1,4 @@
+/home/diabloget/CLionProjects/IDE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/diabloget/CLionProjects/IDE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/diabloget/CLionProjects/IDE/cmake-build-debug/CMakeFiles/IDE.dir
+/home/diabloget/CLionProjects/IDE/cmake-build-debug/CMakeFiles/IDE_autogen.dir
